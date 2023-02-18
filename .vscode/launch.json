@@ -7,7 +7,7 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open index.html",
+   *         "name": "Open index.html",
             "file": "c:\\Users\\Пользователь\\Documents\\html\\index.html"
         }
     ]

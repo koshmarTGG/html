@@ -10,6 +10,15 @@ header{
     text-align: center;
 }
 
+nav a{
+    color: aqua;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    text-decoration: none;
+}
+
+
 main {
     background-color: azure;
     margin-top: 10px;
@@ -18,4 +27,14 @@ main {
     padding: 10px;
     border-radius: 10px;
     width: 80%;
+}
+main h2{
+    text-align: center;
+}
+main h1{
+    text-align: center;
+}
+nav ahead{
+    color: aqua;
+    
 }
