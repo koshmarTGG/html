@@ -75,3 +75,35 @@ td, th {
  tr:hover {
     background-color: rgb(247, 142, 5);
  }
+ .box{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+main{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+ }
+.card {
+    background: rgb(205, 66, 100);
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.w-30{
+    width: 30px;
+}
+.w-70 {
+    width: 70px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+}
